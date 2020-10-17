@@ -1,5 +1,5 @@
 import static java.lang.System.*;
-public SquareRunner
+public class SquareRunner
 {
   public static void main (String[] args)
      {
