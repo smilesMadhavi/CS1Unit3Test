@@ -1,3 +1,4 @@
+import static java.lang.System.*;
 public SquareRunner
 
 {
